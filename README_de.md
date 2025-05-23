@@ -30,11 +30,51 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 ## Übungen
 
-|   Index | Name                                        | Schwierigkeit   | Übung                                                                                                                       |
-|---------|---------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Nmap unter Linux installieren            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-install-nmap-on-linux-530181'>Labor Starten</a>                 |
-|      02 | 📖 Nmap-Hilfe und Optionen in Nmap erkunden | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Labor Starten</a> |
-|      03 | 📖 Nmap Befehlssyntax verstehen             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-understand-nmap-command-syntax-530159'>Labor Starten</a>        |
+|   Index | Name                                              | Schwierigkeit   | Übung                                                                                                                       |
+|---------|---------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Nmap unter Linux installieren                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-install-nmap-on-linux-530181'>Labor Starten</a>                 |
+|      02 | 📖 Nmap-Hilfe und Optionen in Nmap erkunden       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Labor Starten</a> |
+|      03 | 📖 Nmap Befehlssyntax verstehen                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-understand-nmap-command-syntax-530159'>Labor Starten</a>        |
+|      04 | 📖 Ziele für Scans in Nmap festlegen              | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      05 | 📖 Ziele in Nmap randomisieren                    | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      06 | 📖 Host Discovery mit Nmap durchführen            | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      07 | 📖 Erweiterte Host-Erkennung in Nmap durchführen  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      08 | 📖 Port-Scanning mit Nmap durchführen             | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      09 | 📖 UDP-Scanning mit Nmap durchführen              | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      10 | 📖 Spezifische Hosts in Nmap scannen              | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      11 | 📖 Durchführung von TCP FIN Scans in Nmap         | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      12 | 📖 TCP Null Scan mit Nmap ausführen               | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      13 | 📖 TCP Xmas Scanning mit Nmap durchführen         | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      14 | 📖 TCP ACK Scanning mit Nmap durchführen          | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      15 | 📖 Fenster-Scanning mit Nmap durchführen          | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      16 | 📖 Scannen mit benutzerdefinierten Ports in Nmap  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      17 | 📖 IPv6-Ziele in Nmap scannen                     | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      18 | 📖 Kombinieren von TCP- und UDP-Scans in Nmap     | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      19 | 📖 Aggressives Scannen mit Nmap durchführen       | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      20 | 📖 Dienste und Versionen in Nmap erkennen         | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      21 | 📖 Betriebssysteme mit Nmap identifizieren        | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      22 | 📖 Kombinierte OS- und Diensterkennung in Nmap    | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      23 | 📖 Service-Banner in Nmap erkennen                | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      24 | 📖 HTTP-Dienste in Nmap auflisten                 | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      25 | 📖 Ausgabeformate in Nmap verwalten               | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      26 | 📖 Ausgabeformate in Nmap konvertieren            | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      27 | 📖 Scan-Statistiken in Nmap analysieren           | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      28 | 📖 Scan-Timing und Performance in Nmap optimieren | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      29 | 📖 Paketraten in Nmap anpassen                    | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      30 | 📖 Netzwerkbedingungen in Nmap simulieren         | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      31 | 📖 Nmap Scripting Engine nutzen                   | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      32 | 📖 Scannen auf Schwachstellen mit Nmap            | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      33 | 📖 DNS-Einträge in Nmap auflisten                 | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      34 | 📖 SSL-Zertifikate in Nmap erkennen               | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      35 | 📖 SMB-Dienste in Nmap auflisten                  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      36 | 📖 Firewalls und IDS mit Nmap umgehen             | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      37 | 📖 Idle-Scanning mit Nmap durchführen             | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      38 | 📖 MAC-Adressen in Nmap fälschen                  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      39 | 📖 Fehlerbehebung bei Nmap-Scans                  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      40 | 📖 Umfassende Scans mit Nmap durchführen          | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      41 | 📖 Scans mit Nmap automatisieren                  | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      42 | 📖 Scan-Ergebnisse in Nmap vergleichen            | Anfänger        | Demnächst Verfügbar                                                                                                         |
+|      43 | 📖 Realitätsnahe Szenarien in Nmap simulieren     | Anfänger        | Demnächst Verfügbar                                                                                                         |
 
 ## Mehr
 
