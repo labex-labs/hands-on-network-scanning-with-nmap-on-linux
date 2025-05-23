@@ -30,11 +30,51 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                 | Difficulté   | Pratique                                                                                                                       |
-|---------|-----------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Installer Nmap sur Linux                         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-install-nmap-on-linux-530181'>Commencer le Lab</a>                 |
-|      02 | 📖 Explorer l'aide et les options de Nmap dans Nmap | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Commencer le Lab</a> |
-|      03 | 📖 Comprendre la syntaxe des commandes Nmap         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-understand-nmap-command-syntax-530159'>Commencer le Lab</a>        |
+|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                       |
+|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Installer Nmap sur Linux                              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-install-nmap-on-linux-530181'>Commencer le Lab</a>                 |
+|      02 | 📖 Explorer l'aide et les options de Nmap dans Nmap      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Commencer le Lab</a> |
+|      03 | 📖 Comprendre la syntaxe des commandes Nmap              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-understand-nmap-command-syntax-530159'>Commencer le Lab</a>        |
+|      04 | 📖 Spécifier les cibles pour l'analyse dans Nmap         | Débutant     | Bientôt Disponible                                                                                                             |
+|      05 | 📖 Randomiser les cibles dans Nmap                       | Débutant     | Bientôt Disponible                                                                                                             |
+|      06 | 📖 Effectuer une découverte d'hôtes avec Nmap            | Débutant     | Bientôt Disponible                                                                                                             |
+|      07 | 📖 Effectuer une découverte d'hôtes avancée dans Nmap    | Débutant     | Bientôt Disponible                                                                                                             |
+|      08 | 📖 Effectuer un scan de ports avec Nmap                  | Débutant     | Bientôt Disponible                                                                                                             |
+|      09 | 📖 Exécuter un scan UDP avec Nmap                        | Débutant     | Bientôt Disponible                                                                                                             |
+|      10 | 📖 Scanner des Hôtes Spécifiques avec Nmap               | Débutant     | Bientôt Disponible                                                                                                             |
+|      11 | 📖 Effectuer un scan TCP FIN avec Nmap                   | Débutant     | Bientôt Disponible                                                                                                             |
+|      12 | 📖 Exécuter un scan TCP Null avec Nmap                   | Débutant     | Bientôt Disponible                                                                                                             |
+|      13 | 📖 Effectuer un scan TCP Xmas avec Nmap                  | Débutant     | Bientôt Disponible                                                                                                             |
+|      14 | 📖 Effectuer un scan TCP ACK avec Nmap                   | Débutant     | Bientôt Disponible                                                                                                             |
+|      15 | 📖 Effectuer un scan de fenêtre avec Nmap                | Débutant     | Bientôt Disponible                                                                                                             |
+|      16 | 📖 Scanner avec des ports personnalisés dans Nmap        | Débutant     | Bientôt Disponible                                                                                                             |
+|      17 | 📖 Scanner des cibles IPv6 avec Nmap                     | Débutant     | Bientôt Disponible                                                                                                             |
+|      18 | 📖 Combiner les scans TCP et UDP dans Nmap               | Débutant     | Bientôt Disponible                                                                                                             |
+|      19 | 📖 Effectuer un scan agressif avec Nmap                  | Débutant     | Bientôt Disponible                                                                                                             |
+|      20 | 📖 Détecter les services et les versions dans Nmap       | Débutant     | Bientôt Disponible                                                                                                             |
+|      21 | 📖 Identifier les systèmes d'exploitation avec Nmap      | Débutant     | Bientôt Disponible                                                                                                             |
+|      22 | 📖 Combiner la détection du système d'exploitation et... | Débutant     | Bientôt Disponible                                                                                                             |
+|      23 | 📖 Détecter les bannières de service dans Nmap           | Débutant     | Bientôt Disponible                                                                                                             |
+|      24 | 📖 Énumérer les services HTTP avec Nmap                  | Débutant     | Bientôt Disponible                                                                                                             |
+|      25 | 📖 Gérer les formats de sortie dans Nmap                 | Débutant     | Bientôt Disponible                                                                                                             |
+|      26 | 📖 Convertir les formats de sortie dans Nmap             | Débutant     | Bientôt Disponible                                                                                                             |
+|      27 | 📖 Analyser les statistiques d'analyse dans Nmap         | Débutant     | Bientôt Disponible                                                                                                             |
+|      28 | 📖 Optimiser le timing et les performances de scan da... | Débutant     | Bientôt Disponible                                                                                                             |
+|      29 | 📖 Ajuster les taux de paquets dans Nmap                 | Débutant     | Bientôt Disponible                                                                                                             |
+|      30 | 📖 Simuler des conditions réseau dans Nmap               | Débutant     | Bientôt Disponible                                                                                                             |
+|      31 | 📖 Utiliser le moteur de script Nmap (NSE)               | Débutant     | Bientôt Disponible                                                                                                             |
+|      32 | 📖 Recherche de vulnérabilités avec Nmap                 | Débutant     | Bientôt Disponible                                                                                                             |
+|      33 | 📖 Énumérer les enregistrements DNS avec Nmap            | Débutant     | Bientôt Disponible                                                                                                             |
+|      34 | 📖 Détecter les certificats SSL avec Nmap                | Débutant     | Bientôt Disponible                                                                                                             |
+|      35 | 📖 Énumérer les services SMB avec Nmap                   | Débutant     | Bientôt Disponible                                                                                                             |
+|      36 | 📖 Contourner les pare-feu et les systèmes de détecti... | Débutant     | Bientôt Disponible                                                                                                             |
+|      37 | 📖 Effectuer un scan d'inactivité avec Nmap              | Débutant     | Bientôt Disponible                                                                                                             |
+|      38 | 📖 Usurper les adresses MAC dans Nmap                    | Débutant     | Bientôt Disponible                                                                                                             |
+|      39 | 📖 Dépannage des analyses Nmap                           | Débutant     | Bientôt Disponible                                                                                                             |
+|      40 | 📖 Effectuer une analyse complète avec Nmap              | Débutant     | Bientôt Disponible                                                                                                             |
+|      41 | 📖 Automatiser les scans avec Nmap                       | Débutant     | Bientôt Disponible                                                                                                             |
+|      42 | 📖 Comparer les résultats d'analyse dans Nmap            | Débutant     | Bientôt Disponible                                                                                                             |
+|      43 | 📖 Simuler des scénarios réels avec Nmap                 | Débutant     | Bientôt Disponible                                                                                                             |
 
 ## Plus
 
