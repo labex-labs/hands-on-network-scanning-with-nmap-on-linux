@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Hands-On Network Scanning with Nmap on Linux](https://cover-creator.labex.io/hands-on-network-scanning-with-nmap-on-linux.png)](https://labex.io/en/courses/hands-on-network-scanning-with-nmap-on-linux)
+[![Hands-On Network Scanning with Nmap on Linux](https://cover-creator.labex.io/hands-on-network-scanning-with-nmap-on-linux.png)](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/hands-on-network-scanning-with-nmap-on-linux)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux)
 
 Master network scanning with Nmap on Linux! Learn practical techniques for host discovery, port scanning, OS detection, and firewall evasion through hands-on labs.
 
@@ -30,11 +30,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                     | Difficulty   | Practice                                                                                                                |
-|---------|------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Install Nmap on Linux                 | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/nmap-install-nmap-on-linux-530181'>Start Lab</a>                 |
-|      02 | 📖 Explore Nmap Help and Options in Nmap | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Start Lab</a> |
-|      03 | 📖 Understand Nmap Command Syntax        | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/nmap-understand-nmap-command-syntax-530159'>Start Lab</a>        |
+|   Index | Name                                     | Difficulty   | Practice                                                                                                             |
+|---------|------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Install Nmap on Linux                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-install-nmap-on-linux-530181'>Start Lab</a>                 |
+|      02 | 📖 Explore Nmap Help and Options in Nmap | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Start Lab</a> |
+|      03 | 📖 Understand Nmap Command Syntax        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-understand-nmap-command-syntax-530159'>Start Lab</a>        |
 
 ## More
 
