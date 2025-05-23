@@ -32,13 +32,13 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                        | Schwierigkeit   | Übung                                                                                                                       |
 |---------|---------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Nmap unter Linux installieren            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/nmap-install-nmap-on-linux-530181'>Labor Starten</a>                 |
-|      02 | 📖 Nmap-Hilfe und Optionen in Nmap erkunden | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Labor Starten</a> |
-|      03 | 📖 Nmap Befehlssyntax verstehen             | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/nmap-understand-nmap-command-syntax-530159'>Labor Starten</a>        |
+|      01 | 📖 Nmap unter Linux installieren            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-install-nmap-on-linux-530181'>Labor Starten</a>                 |
+|      02 | 📖 Nmap-Hilfe und Optionen in Nmap erkunden | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Labor Starten</a> |
+|      03 | 📖 Nmap Befehlssyntax verstehen             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-understand-nmap-command-syntax-530159'>Labor Starten</a>        |
 
 ## Mehr
 
-- 🔗 [Nmap Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Nmap Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Nmap Free Tutorials](https://github.com/labex-labs/nmap-free-tutorials)
+- 🔗 [Nmap Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Nmap Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Nmap Kostenlose Tutorials](https://github.com/labex-labs/nmap-free-tutorials)
 
