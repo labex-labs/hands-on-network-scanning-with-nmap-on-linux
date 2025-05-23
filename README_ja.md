@@ -32,13 +32,13 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                   | 難易度   | 練習                                                                                                                     |
 |----------------|----------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Linux に Nmap をインストールする    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-install-nmap-on-linux-530181'>ラボを開始</a>                 |
-|             02 | 📖 Nmap のヘルプとオプションを探索する | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>ラボを開始</a> |
-|             03 | 📖 Nmap コマンドの構文を理解する       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-understand-nmap-command-syntax-530159'>ラボを開始</a>        |
+|             01 | 📖 Linux に Nmap をインストールする    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-install-nmap-on-linux-530181'>ラボを開始</a>                 |
+|             02 | 📖 Nmap のヘルプとオプションを探索する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>ラボを開始</a> |
+|             03 | 📖 Nmap コマンドの構文を理解する       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-understand-nmap-command-syntax-530159'>ラボを開始</a>        |
 
 ## その他
 
-- 🔗 [Nmap Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Nmap Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Nmap Free Tutorials](https://github.com/labex-labs/nmap-free-tutorials)
+- 🔗 [Nmap プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Nmap プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Nmap 無料チュートリアル](https://github.com/labex-labs/nmap-free-tutorials)
 
