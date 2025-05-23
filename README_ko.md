@@ -32,13 +32,13 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                        | 난이도   | 연습                                                                                                                    |
 |----------|-----------------------------|----------|-------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Linux 에 Nmap 설치하기   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-install-nmap-on-linux-530181'>실습 시작</a>                 |
-|       02 | 📖 Nmap 도움말 및 옵션 탐색 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>실습 시작</a> |
-|       03 | 📖 Nmap 명령 구문 이해      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-understand-nmap-command-syntax-530159'>실습 시작</a>        |
+|       01 | 📖 Linux 에 Nmap 설치하기   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-install-nmap-on-linux-530181'>실습 시작</a>                 |
+|       02 | 📖 Nmap 도움말 및 옵션 탐색 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>실습 시작</a> |
+|       03 | 📖 Nmap 명령 구문 이해      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-understand-nmap-command-syntax-530159'>실습 시작</a>        |
 
 ## 더 보기
 
-- 🔗 [Nmap Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Nmap Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Nmap Free Tutorials](https://github.com/labex-labs/nmap-free-tutorials)
+- 🔗 [Nmap 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Nmap 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Nmap 무료 튜토리얼](https://github.com/labex-labs/nmap-free-tutorials)
 
