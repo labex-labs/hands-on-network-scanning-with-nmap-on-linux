@@ -26,19 +26,19 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                      | 难度   | 练习                                                                                                                   |
 |--------|---------------------------|--------|------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 在 Linux 上安装 Nmap   | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-install-nmap-on-linux-530181'>开始实验</a>                 |
-|     02 | 📖 探索 Nmap 的帮助和选项 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>开始实验</a> |
-|     03 | 📖 理解 Nmap 命令语法     | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-understand-nmap-command-syntax-530159'>开始实验</a>        |
+|     01 | 📖 在 Linux 上安装 Nmap   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-install-nmap-on-linux-530181'>开始实验</a>                 |
+|     02 | 📖 探索 Nmap 的帮助和选项 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>开始实验</a> |
+|     03 | 📖 理解 Nmap 命令语法     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-understand-nmap-command-syntax-530159'>开始实验</a>        |
 
 ## 更多
 
-- 🔗 [Nmap Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Nmap Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Nmap Free Tutorials](https://github.com/labex-labs/nmap-free-tutorials)
+- 🔗 [Nmap 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Nmap 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Nmap 免费教程](https://github.com/labex-labs/nmap-free-tutorials)
 
