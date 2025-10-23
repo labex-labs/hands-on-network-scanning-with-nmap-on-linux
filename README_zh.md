@@ -16,20 +16,20 @@
 
 ## 练习
 
-|   序号 | 名称                             | 难度   | 练习                                                                                                                     |
-|--------|----------------------------------|--------|--------------------------------------------------------------------------------------------------------------------------|
-|      1 | 📖 🆓 在 Linux 上安装 Nmap       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-install-nmap-on-linux-530181'>开始实验</a>                   |
-|      2 | 📖 🆓 探索 Nmap 的帮助和选项     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>开始实验</a>   |
-|      3 | 📖 🆓 理解 Nmap 命令语法         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-understand-nmap-command-syntax-530159'>开始实验</a>          |
-|      4 | 📖 🆓 Nmap 扫描目标指定          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185'>开始实验</a>    |
-|      5 | 📖 🆓 Nmap 随机化目标            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-randomize-targets-in-nmap-547108'>开始实验</a>               |
-|      6 | 📖 🆓 使用 Nmap 进行主机发现     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-perform-host-discovery-with-nmap-530184'>开始实验</a>        |
-|      7 | 📖 🆓 使用 Nmap 执行高级主机发现 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-perform-advanced-host-discovery-in-nmap-547102'>开始实验</a> |
-|      8 | 📖  使用 Nmap 进行端口扫描       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-conduct-port-scanning-with-nmap-530176'>开始实验</a>         |
+|   序号 | 名称                             | 难度   | 练习                                                                                                                                                                    |
+|--------|----------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      1 | 🧩 🆓 在 Linux 上安装 Nmap       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-install-nmap-on-linux-530181?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>                   |
+|      2 | 🧩 🆓 探索 Nmap 的帮助和选项     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-explore-nmap-help-and-options-in-nmap-547101?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>   |
+|      3 | 🧩 🆓 理解 Nmap 命令语法         | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-understand-nmap-command-syntax-530159?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>          |
+|      4 | 🧩 🆓 Nmap 扫描目标指定          | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-specify-targets-for-scanning-in-nmap-530185?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>    |
+|      5 | 🧩 🆓 Nmap 随机化目标            | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-randomize-targets-in-nmap-547108?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>               |
+|      6 | 🧩 🆓 使用 Nmap 进行主机发现     | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-perform-host-discovery-with-nmap-530184?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>        |
+|      7 | 🧩 🆓 使用 Nmap 执行高级主机发现 | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-perform-advanced-host-discovery-in-nmap-547102?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a> |
+|      8 | 🧩  使用 Nmap 进行端口扫描       | 初级   | <a target='_blank' href='https://labex.io/zh/labs/nmap-conduct-port-scanning-with-nmap-530176?course=hands-on-network-scanning-with-nmap-on-linux'>开始实验</a>         |
 
 ## 关于 LabEx
 
-LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），LabEx 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
+[LabEx](https://labex.io) 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。采用严格的'边学边做'方法，浏览器内的交互式在线环境具有自动化的逐步检查，基于技能树的结构化内容组织系统，以及不断增长的学习资源（包含 30 个技能树和超过 6,000 个实验），[LabEx](https://labex.io) 提供全面的实践教育。该平台包含基于最新 AI 模型构建的学习助手 Labby，提供对话式学习体验。
 
 ## 更多
 
