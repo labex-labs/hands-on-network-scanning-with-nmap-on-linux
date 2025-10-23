@@ -16,20 +16,20 @@ Domine a varredura de rede com Nmap no Linux! Aprenda técnicas práticas para d
 
 ## Exercícios
 
-|   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                     |
-|----------|------------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------|
-|        1 | 📖 🆓 Instalar Nmap no Linux                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-install-nmap-on-linux-530181'>Iniciar Lab</a>                   |
-|        2 | 📖 🆓 Explore a Ajuda e Opções do Nmap         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-explore-nmap-help-and-options-in-nmap-547101'>Iniciar Lab</a>   |
-|        3 | 📖 🆓 Entenda a Sintaxe de Comando do Nmap     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-understand-nmap-command-syntax-530159'>Iniciar Lab</a>          |
-|        4 | 📖 🆓 Especificar Alvos para Varredura no Nmap | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-specify-targets-for-scanning-in-nmap-530185'>Iniciar Lab</a>    |
-|        5 | 📖 🆓 Randomizar Alvos no Nmap                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-randomize-targets-in-nmap-547108'>Iniciar Lab</a>               |
-|        6 | 📖 🆓 Descoberta de Hosts com Nmap             | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-perform-host-discovery-with-nmap-530184'>Iniciar Lab</a>        |
-|        7 | 📖 🆓 Descoberta Avançada de Hosts com Nmap    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-perform-advanced-host-discovery-in-nmap-547102'>Iniciar Lab</a> |
-|        8 | 📖  Realizar Varredura de Portas com Nmap      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-conduct-port-scanning-with-nmap-530176'>Iniciar Lab</a>         |
+|   Índice | Nome                                           | Dificuldade   | Prática                                                                                                                                                                    |
+|----------|------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | 🧩 🆓 Instalar Nmap no Linux                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-install-nmap-on-linux-530181?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>                   |
+|        2 | 🧩 🆓 Explore a Ajuda e Opções do Nmap         | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-explore-nmap-help-and-options-in-nmap-547101?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>   |
+|        3 | 🧩 🆓 Entenda a Sintaxe de Comando do Nmap     | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-understand-nmap-command-syntax-530159?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>          |
+|        4 | 🧩 🆓 Especificar Alvos para Varredura no Nmap | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-specify-targets-for-scanning-in-nmap-530185?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>    |
+|        5 | 🧩 🆓 Randomizar Alvos no Nmap                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-randomize-targets-in-nmap-547108?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>               |
+|        6 | 🧩 🆓 Descoberta de Hosts com Nmap             | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-perform-host-discovery-with-nmap-530184?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>        |
+|        7 | 🧩 🆓 Descoberta Avançada de Hosts com Nmap    | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-perform-advanced-host-discovery-in-nmap-547102?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a> |
+|        8 | 🧩  Realizar Varredura de Portas com Nmap      | Iniciante     | <a target='_blank' href='https://labex.io/pt/labs/nmap-conduct-port-scanning-with-nmap-530176?course=hands-on-network-scanning-with-nmap-on-linux'>Iniciar Lab</a>         |
 
 ## Sobre LabEx
 
-LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, LabEx oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
+[LabEx](https://labex.io) é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos. Com uma abordagem rigorosa de 'Aprender Fazendo', ambientes online interativos no navegador com verificações automatizadas passo a passo, organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades, e um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios, [LabEx](https://labex.io) oferece educação prática integral. A plataforma inclui o assistente de aprendizagem Labby, construído sobre os últimos modelos de IA, fornecendo uma experiência de aprendizagem conversacional.
 
 ## Mais
 
